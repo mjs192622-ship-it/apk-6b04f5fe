@@ -1,2 +1,0 @@
-# apk-6b04f5fe
-WebView APK for ASSESMEN SMK AL-HIKMAH 2 GARUT
